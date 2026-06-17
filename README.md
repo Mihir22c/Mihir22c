@@ -2,7 +2,7 @@
 
 **React Native engineer (4+ yrs)** building production iOS & Android apps from TypeScript/RN features to native modules in **Kotlin/Java**. Currently shipping mobile at **Diehl Metering**, Nuremberg. Open to full-time mobile / full-stack roles in the EU.
 
-📫 [LinkedIn](https://linkedin.com/in/mihirbavisi) · mihir.m.bavisi@gmail.com
+📫 [LinkedIn](https://linkedin.com/in/mihirbavisi) · mihir.m.bavisi@gmail.com · https://mihirbavishi.com
 
 ---
 
